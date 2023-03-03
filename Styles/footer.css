@@ -1,0 +1,21 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  background-color: rebeccapurple;
+  width: 100%;
+  padding: 5px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+p {
+  text-align: center;
+}
